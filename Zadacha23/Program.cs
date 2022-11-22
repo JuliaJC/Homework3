@@ -15,8 +15,6 @@ while (i <= number)
     Console.Write(result + " ");
 }
 
-
-
 int ReadInt(string message)
 {
     Console.Write(message);
